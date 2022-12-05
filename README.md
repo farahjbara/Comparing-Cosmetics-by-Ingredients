@@ -3,6 +3,7 @@ Process ingredient lists for cosmetics on Sephora then visualize similarity usin
 <br>
  :point_down:  :point_down:  :point_down: 
  <br>
+ <br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/farahjbara/Comparing-Cosmetics-by-Ingredients/main)
 <br> 
 **Objective:**
