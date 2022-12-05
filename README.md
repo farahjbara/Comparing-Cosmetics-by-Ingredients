@@ -19,7 +19,7 @@ create a content-based recommendation system where the 'content' will be the che
 - Cosmetics, chemicals... it's complicated
 - 
 <hr>
-[link text](1.md)
+
 - Focus on one product category and one skin type
 - Tokenizing the ingredients
 - Initializing a document-term matrix (DTM)
@@ -38,16 +38,4 @@ create a content-based recommendation system where the 'content' will be the che
 #### sklearn
 #### bokeh
 
-1.
 
-*# Import libraries
-# ... YOUR CODE FOR TASK 1 ...
-import pandas as pd
-import numpy as np
-from sklearn.manifold import TSNE
-# Load the data
-df = pd.read_csv("datasets/cosmetics.csv")
-# Check the first five rows 
-display(df.sample(5))
-# Inspect the types of products
-display(df['Label'].value_counts())
