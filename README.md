@@ -17,9 +17,6 @@ create a content-based recommendation system where the 'content' will be the che
 **Project Tasks:**
 
 - Cosmetics, chemicals... it's complicated
-- 
-<hr>
-
 - Focus on one product category and one skin type
 - Tokenizing the ingredients
 - Initializing a document-term matrix (DTM)
@@ -31,7 +28,7 @@ create a content-based recommendation system where the 'content' will be the che
 - Mapping the cosmetic items
 - Comparing two products
 
-## Libraries
+## Libraries:
 
 #### pandas
 #### Numpy
