@@ -12,4 +12,5 @@ Création d'un système de recommandation basé sur le contenu des composants ch
                  * Traiter les listes d'ingrédients de 1472 cosmétiques via DataSet
 <br>
                  * Visualiserez la similarité des ingrédients 
+<br>                 
 
