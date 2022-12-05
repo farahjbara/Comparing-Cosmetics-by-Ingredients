@@ -13,7 +13,7 @@ create a content-based recommendation system where the 'content' will be the che
                   * Visualize the similarity of ingredients
                   
 <br>
-## Project Tasks
+**Project Tasks**
 
 - Cosmetics, chemicals... it's complicated
 - Focus on one product category and one skin type
