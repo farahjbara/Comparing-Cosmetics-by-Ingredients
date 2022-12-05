@@ -8,7 +8,6 @@ Process ingredient lists for cosmetics on Sephora then visualize similarity usin
 **Objectif:**
 Création d'un système de recommandation basé sur le contenu des composants chimiques des cosmétiques.
 <br>
-
                  * Traiter les listes d'ingrédients de 1472 cosmétiques via DataSet
 <br>
                  * Visualiserez la similarité des ingrédients 
