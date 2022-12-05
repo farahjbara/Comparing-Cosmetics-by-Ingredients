@@ -5,11 +5,11 @@ Process ingredient lists for cosmetics on Sephora then visualize similarity usin
  <br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/farahjbara/Comparing-Cosmetics-by-Ingredients/main)
 <br> 
-**Objectif:**
-Création d'un système de recommandation basé sur le contenu des composants chimiques des cosmétiques.
+**Objective:**
+create a content-based recommendation system where the 'content' will be the chemical components of cosmetics.
 <br>
-                 * Traiter les listes d'ingrédients de 1472 cosmétiques via DataSet
+                  * Process ingredient lists of 1472 cosmetics via DataSet
 <br>
-                 * Visualiserez la similarité des ingrédients 
-<br>                 
+                  * Visualize the similarity of ingredients
+<br>
 
